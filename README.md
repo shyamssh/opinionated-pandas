@@ -4,7 +4,7 @@ Use pandas in an opinionated way
 
 ## Content in the notebook 
 
-Notebook walks through the important concepts in the pandas. My recommendation are to use subset of the library functions which are enough to do all of the data analysis that we usually do. 
+Notebook walks through the important concepts in the pandas. My recommendation is to use subset of the library functions which are enough to do all of the data analysis that we usually do. 
 
 Note - You will not find all the details for each conecept/method in the notebook. Notebook was prepared to just go through imporant functions. Please go through the reference link that are mentioned. 
 
